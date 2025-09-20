@@ -1,1 +1,1 @@
-print("guru is in love with p")
+print("guru is in love with mysore")
